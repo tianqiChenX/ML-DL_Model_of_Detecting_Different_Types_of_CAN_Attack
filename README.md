@@ -7,3 +7,5 @@ Controller Area Network (CAN) is the standard protocol for the in-vehicle networ
 * Logistic Regression (LR)
 * Single Layer Neural Network
 * Multi-Layer Perceptron (MLP)
+
+## Also include Hyperparameter Tuning for the above three models
